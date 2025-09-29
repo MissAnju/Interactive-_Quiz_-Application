@@ -47,13 +47,18 @@ Clone the repo:
 git clone https://github.com/missanju/Interactive-_Quiz_-Application.git
 cd Interactive-_Quiz_-Application
 
-
-👉 See some Images of  my QuizApp:-
+ 📸 Screenshots  of my QuizApp:-
 1. start screen
-![WhatsApp Image 2025-09-29 at 21 37 48_9fcb268b](https://github.com/user-attachments/assets/0d433928-3ee0-4d54-a50c-2c64a0f73976)
-   
+### Home Screen  
+![Home Screen](images/home.png)  
 
+### Quiz Question  
+![Quiz Question](images/question.png)  
 
+### Result Screen  
+![Result Screen](images/result.png)  
+
+![Quiz Screenshot](https://raw.githubusercontent.com/missanju/Interactive-_Quiz_-Application/main/images/home.png)
 
 
 

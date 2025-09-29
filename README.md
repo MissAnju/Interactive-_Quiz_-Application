@@ -52,15 +52,15 @@ cd Interactive-_Quiz_-Application
 ##📸 Screenshots  of my QuizApp:-
  
 ### Home Screen  
-![HomeScreen](images/home.png)  
+![HomeScreen](images/home.jpg)  
 
 ### Quiz Question  
-![QuizQuestion](images/question.png)  
+![QuizQuestion](images/question.jpg)  
 
 ### Result Screen  
-![ResultScreen](images/result.png)  
+![ResultScreen](images/result.jpg)  
 
-![Quiz Screenshot](https://raw.githubusercontent.com/missanju/Interactive-_Quiz_-Application/main/images/home.png)
+![Quiz Screenshot](https://raw.githubusercontent.com/missanju/Interactive-_Quiz_-Application/main/images/home.jpg)
 
 
 

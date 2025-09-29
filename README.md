@@ -1,14 +1,14 @@
-###🎯 Interactive Quiz Application
+🎯 ###Interactive Quiz Application
 
-[!Live Demo 👉](missanju.github.io/Interactive-Quiz-Application)
+![Live Demo 👉](missanju.github.io/Interactive-Quiz-Application)
 
-#📌 Purpose
+📌 Purpose
 
 This project is a web-based quiz app built with HTML, CSS, and JavaScript.
 It was created to practice DOM manipulation, event handling, arrays/objects, and conditional logic in JavaScript, while giving users a fun way to test their knowledge.
 
 
-#✅ Features
+✅ Features
 
 Multiple-choice quiz with dynamic questions.
 
@@ -19,7 +19,7 @@ Score shown at the end of the quiz.
 Simple and responsive user interface.
 
 
-#✨ Extra Challenges (Optional)
+✨ Extra Challenges (Optional)
 
 Timer countdown for each question.
 
@@ -31,7 +31,7 @@ Local storage to save high scores.
 
 
 
-##🚀 How to Run
+🚀 How to Run
 Option 1: Use Online Version
 
 1.Open the app: missanju.github.io/Interactive-Quiz-Application
@@ -40,6 +40,7 @@ Option 1: Use Online Version
 
 3.Click Start Quiz, answer the questions, and see your score!
 
+
 Option 2: Run Locally
 
 Clone the repo:
@@ -47,8 +48,8 @@ Clone the repo:
 git clone https://github.com/missanju/Interactive-_Quiz_-Application.git
 cd Interactive-_Quiz_-Application
 
- ##📸 Screenshots  of my QuizApp:-
-1. start screen
+##📸 Screenshots  of my QuizApp:-
+ 
 ### Home Screen  
 ![Home Screen](images/home.png)  
 

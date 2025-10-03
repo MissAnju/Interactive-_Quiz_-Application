@@ -1,6 +1,6 @@
-🎯 # Interactive Quiz Application
+ # Interactive Quiz Application
 
-### [Live Demo](missanju.github.io/Interactive-Quiz-Application)
+ [Live Demo](missanju.github.io/Interactive-Quiz-Application)
 
 📌 Purpose
 

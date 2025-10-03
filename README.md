@@ -1,7 +1,6 @@
-🎯 ### Interactive Quiz Application
+🎯 # Interactive Quiz Application
 
-### Live Demo
-![missanju.github.io/Interactive-Quiz-Application]
+### [Live Demo](missanju.github.io/Interactive-Quiz-Application)
 
 📌 Purpose
 
@@ -60,7 +59,7 @@ cd Interactive-_Quiz_-Application
 ### Result Screen  
 ![ResultScreen](images/result.jpg)  
 
-![Quiz Screenshot](https://raw.githubusercontent.com/missanju/Interactive-_Quiz_-Application/main/images/home.jpg)
+![Quiz Screenshot](https://raw.githubusercontent.com/missanju/Interactive-_Quiz_-Application/main/images/home.jpg
 
 
 

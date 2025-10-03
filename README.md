@@ -19,6 +19,7 @@ Score shown at the end of the quiz.
 Simple and responsive user interface.
 
 
+
 ✨ Extra Challenges (Optional)
 
 Timer countdown for each question.
@@ -30,36 +31,10 @@ Randomized questions for replayability.
 Local storage to save high scores.
 
 
-
-🚀 How to Run
-Option 1: Use Online Version
-
-1.Open the app: missanju.github.io/Interactive-Quiz-Application
-
-2.Choose quiz settings (questions, category, difficulty, time).
-
-3.Click Start Quiz, answer the questions, and see your score!
+![HomeScrren img](/HomeScrren.jpg)
 
 
-Option 2: Run Locally
 
-Clone the repo:
-
-git clone https://github.com/missanju/Interactive-_Quiz_-Application.git
-cd Interactive-_Quiz_-Application
-
-##📸 Screenshots  of my QuizApp:-
- 
-### Home Screen  
-![HomeScreen](images/home.jpg)  
-
-### Quiz Question  
-![QuizQuestion](images/question.jpg)  
-
-### Result Screen  
-![ResultScreen](images/result.jpg)  
-
-![Quiz Screenshot](https://raw.githubusercontent.com/missanju/Interactive-_Quiz_-Application/main/images/home.jpg
 
 
 

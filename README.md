@@ -32,7 +32,7 @@ Local storage to save high scores.
 
 
 
-![preview img](/preview.jpg)
+![preview img](/preview image.jpg)
 
 
 

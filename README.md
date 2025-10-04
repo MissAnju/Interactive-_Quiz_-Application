@@ -31,9 +31,8 @@ Randomized questions for replayability.
 Local storage to save high scores.
 
 
-![HomeScrren img](/images/HomeScrren.jpg)
 
-
+![preview img](/preview.jpg)
 
 
 

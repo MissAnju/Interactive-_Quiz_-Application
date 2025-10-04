@@ -22,17 +22,17 @@ Simple and responsive user interface.
 
 ✨ Extra Challenges (Optional)
 
-Timer countdown for each question.
+1.Timer countdown for each question.
 
-Progress indicator (Question X of Y).
+2.Progress indicator (Question X of Y).
 
-Randomized questions for replayability.
+3.Randomized questions for replayability.
 
-Local storage to save high scores.
+4.Local storage to save high scores.
 
 
 
-![preview img](/preview image.jpg)
+![preview img](/preview.png)
 
 
 

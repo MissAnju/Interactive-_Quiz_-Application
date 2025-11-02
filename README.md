@@ -1,5 +1,3 @@
-# Interactive-_Quiz_-Application
-This project is designed to give you practical experience with JavaScript, DOM manipulation, and front-end design. Completing this project will strengthen your skills in building interactive and user-friendly applications.
 
 # Interactive Quiz Application
 
@@ -10,7 +8,7 @@ This project is designed to give you practical experience with JavaScript, DOM m
 This project is a web-based quiz app built with HTML, CSS, and JavaScript.
 It was created to practice DOM manipulation, event handling, arrays/objects, and conditional logic in JavaScript, while giving users a fun way to test their knowledge.
 
-
+###
 ✅ Features
 
 Multiple-choice quiz with dynamic questions.
@@ -22,6 +20,7 @@ Score shown at the end of the quiz.
 Simple and responsive user interface.
 
 
+###
 
 ✨ Extra Challenges (Optional)
 
@@ -34,6 +33,7 @@ Simple and responsive user interface.
 4.Local storage to save high scores.
 
 
+##
 
 ![preview img](/preview.png)
 

@@ -33,7 +33,7 @@ Simple and responsive user interface.
 4.Local storage to save high scores.
 
 
-##
+## Preview 
 
 ![preview img](/preview.png)
 

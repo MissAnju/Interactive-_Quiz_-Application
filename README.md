@@ -8,8 +8,7 @@
 This project is a web-based quiz app built with HTML, CSS, and JavaScript.
 It was created to practice DOM manipulation, event handling, arrays/objects, and conditional logic in JavaScript, while giving users a fun way to test their knowledge.
 
-###
-✅ Features
+ ## Features
 
 Multiple-choice quiz with dynamic questions.
 
@@ -20,9 +19,7 @@ Score shown at the end of the quiz.
 Simple and responsive user interface.
 
 
-###
-
-✨ Extra Challenges (Optional)
+## Extra Challenges (Optional)
 
 1.Timer countdown for each question.
 
